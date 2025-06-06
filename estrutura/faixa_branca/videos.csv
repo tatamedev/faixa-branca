@@ -1,0 +1,47 @@
+Categoria,Vídeo,Título,Objetivo,Ferramentas/Recursos,Tempo Estimado (min),Observações
+Fundamentos e Ambiente,1.1,Apresentação do TatameDev e Filosofia das Faixas,"Apresentar o projeto TatameDev, como será a jornada e o conceito de faixas de evolução.",Nenhum,8,"Tom inspirador, leve e motivador."
+Fundamentos e Ambiente,1.2,O que é Programação? Conceitos Básicos para Iniciantes,"Explicar em linguagem simples o que é código, software e como programas funcionam.",Slides simples ou desenho,10,Usar analogias visuais.
+Fundamentos e Ambiente,1.3,Como estudar programação sozinho,"Ensinar técnicas de autodidatismo, foco, constância, uso de internet e comunidades.","Artigos, vídeos, GitHub, StackOverflow",10,Apontar erros comuns de iniciantes.
+Fundamentos e Ambiente,1.4,Instalando o VSCode e configurando para desenvolvimento,"Guia passo a passo para instalar o VSCode, extensões úteis e tema.","VSCode, Git, Live Server, Copilot",12,Mostrar tela por tela.
+Fundamentos e Ambiente,1.5,Terminal e Comandos Básicos,"Ensinar comandos básicos de terminal como cd, ls, mkdir, touch, etc.",Terminal integrado do VSCode,8,Explicar estrutura de pastas.
+Fundamentos e Ambiente,1.6,Criando um repositório no GitHub,"Criar uma conta, novo repositório e clonar no VSCode.","GitHub, VSCode",10,Mostrar push inicial.
+"HTML, CSS e JS Vanilla",2.1,Como funciona a Web?,"Explicar cliente/servidor, HTTP, navegador e arquivos estáticos.","Desenho de arquitetura, navegador",10,Usar ilustrações simples.
+"HTML, CSS e JS Vanilla",2.2,Criando sua primeira página HTML,"Ensinar tags básicas como html, head, body, h1, p, a, img.","VSCode, Live Server",12,Criar página pessoal simples.
+"HTML, CSS e JS Vanilla",2.3,Estilizando com CSS,"Introduzir estilos inline, internos e externos. Trabalhar com classes e ids.","VSCode, CSS",10,Mostrar estilização gradual.
+"HTML, CSS e JS Vanilla",2.4,Criando Layouts com CSS,"Ensinar display, flexbox, margin, padding, alinhamentos.","CSS, navegador",10,Criar card ou layout simples.
+"HTML, CSS e JS Vanilla",2.5,"JavaScript: variáveis, tipos e operadores","Mostrar como declarar variáveis, usar operadores e tipos básicos.","Console navegador, JS",10,Mostrar no console do navegador.
+"HTML, CSS e JS Vanilla",2.6,Funções e eventos,"Ensinar criação de funções e uso de eventos como click, input.","JS, navegador",10,Criar botão que muda texto.
+"HTML, CSS e JS Vanilla",2.7,Projeto final: To-do list simples,Aplicar todo conhecimento criando um app funcional com HTML/CSS/JS.,"VSCode, navegador",15,Salvar tarefas no localStorage.
+Playground TypeScript,3.1,Instalando TypeScript e criando o playground,"Instalar o TypeScript, configurar tsconfig e rodar arquivos .ts.","Node.js, TS",10,Mostrar instalação passo a passo.
+Playground TypeScript,3.2,"Tipos, variáveis e funções em TS","Ensinar como tipar funções, arrays e objetos.",TS Playground,10,Explicar erros comuns.
+Playground TypeScript,3.3,Condicionais e Loops,"Trabalhar if/else, switch, for, while.",TS Playground,10,Criar lógica simples.
+Playground TypeScript,3.4,Classes e Objetos,Explicar orientação a objetos básica com classes e construtores.,VSCode,10,Criar exemplo de usuário ou tarefa.
+Playground TypeScript,3.5,Mini projeto: Quiz interativo,Criar quiz com perguntas e pontuação.,VSCode,15,Salvar perguntas em array.
+Git e GitHub,4.1,O que é Git e controle de versão?,Explicar de forma visual como funciona controle de versão.,Quadro ou slides,8,Usar exemplo de salvar arquivos.
+Git e GitHub,4.2,Instalando Git e primeiros comandos,"Ensinar init, add, commit, log, status.",Terminal,10,Mostrar pasta antes e depois.
+Git e GitHub,4.3,Criando conta e repositório no GitHub,Mostrar passo a passo até conectar com o repositório local.,GitHub,10,Explicar SSH e HTTPS.
+Git e GitHub,4.4,"Push, pull e merge",Simular time trabalhando em branchs e atualizações.,"Terminal, GitHub",12,Criar conflito simples e resolver.
+Git e GitHub,4.5,Pull Request e colaboração,Criar PR no GitHub e mostrar como aprovar.,GitHub,10,Usar projeto real.
+Angular,5.1,O que é Angular e como funciona?,"Introduzir o framework Angular, SPA, arquitetura de componentes.","Slides, terminal",10,Usar analogia com peças LEGO.
+Angular,5.2,Instalando Angular CLI e criando projeto,"Instalar Angular CLI, criar novo projeto e rodar servidor local.","Node.js, Angular CLI",12,Mostrar o Live Reload.
+Angular,5.3,Criando componentes e rotas,"Criar componentes, configurar rotas e navegação SPA.",Angular CLI,10,Explicar estrutura de pastas.
+Angular,5.4,Angular Forms e Validação,Criar formulários com Template Driven Forms e validar campos.,"Angular, navegador",12,Mostrar mensagens de erro.
+Angular,5.5,Consumindo API com HttpClient,Fazer requisições GET e POST com HttpClient e exibir no template.,"Angular, Postman",12,Simular erro e mostrar fallback.
+Angular,5.6,Estilização com Bootstrap,Integrar Bootstrap e criar layout simples e responsivo.,Bootstrap CDN,10,Mostrar grid e componentes prontos.
+NestJS + Supabase,6.1,O que é backend? Explicação para iniciantes,"Explicar o papel do backend, requisições, APIs e banco de dados.",Slides e diagrama,10,Usar analogia com garçom/cozinha.
+NestJS + Supabase,6.2,Instalando NestJS e criando projeto,"Instalar NestJS CLI, criar API e rodar servidor.","Node.js, NestJS CLI",12,Testar rota GET básica.
+NestJS + Supabase,6.3,Criando CRUD com DTOs e Services,"Criar controllers, DTOs e services para um CRUD completo.",NestJS,15,Explicar separação de camadas.
+NestJS + Supabase,6.4,Conectando com banco PostgreSQL (Supabase),"Criar banco e tabelas, configurar ambiente e testar conexão.","Supabase, pgAdmin",12,Mostrar erro de conexão e solução.
+NestJS + Supabase,6.5,Testando API com Postman,Testar todas as rotas com dados reais e validar respostas.,Postman,10,Salvar coleção para reuso.
+Integração Fullstack,7.1,Conectando Angular com NestJS,Configurar URL base e serviços Angular para consumir a API NestJS.,"Angular, NestJS",10,Mostrar testes e falhas.
+Integração Fullstack,7.2,Implementando CRUD no Angular com API,"Criar tela com cadastro, listagem, edição e exclusão de itens.",Angular,15,Mostrar interação real e feedbacks.
+Deploy Web,8.1,Criando conta e projeto no Firebase,"Criar conta no Firebase, configurar CLI e projeto web.",Firebase CLI,10,Verificar permissões e billing.
+Deploy Web,8.2,Publicando frontend Angular no Firebase,Gerar build de produção e subir site com Firebase Hosting.,"Angular, Firebase CLI",10,Mostrar domínio público.
+Deploy Web,8.3,Deploy do NestJS na Render,"Criar app no Render, conectar repositório GitHub e configurar build.","Render, GitHub",12,Lidar com erro de build.
+Deploy Web,8.4,Configurando variáveis de ambiente,Explicar uso de .env e como configurar em produção.,"NestJS, Render",10,Evitar vazamento de dados sensíveis.
+Portfólio e Soft Skills,9.1,Como estruturar seu GitHub para atrair oportunidades,"Explicar README, organização, commits e projetos fixados.",GitHub,10,Mostrar exemplo de repositório ideal.
+Portfólio e Soft Skills,9.2,LinkedIn para desenvolvedores iniciantes,"Criar perfil, escrever bio, destacar projetos e certificados.",LinkedIn,12,Evitar clichês comuns.
+Portfólio e Soft Skills,9.3,O que publicar no LinkedIn como iniciante?,"Exemplos de posts, projetos, estudos e engajamento.",LinkedIn,10,Mostrar posts reais.
+Portfólio e Soft Skills,9.4,Como estudar sozinho com eficiência,"Criar rotina de estudos, usar fontes confiáveis e revisar com frequência.","Artigos, vídeos, GitHub",10,Citar método Pomodoro e mapas mentais.
+Portfólio e Soft Skills,9.5,Participação em comunidades e colaboração,"Onde encontrar devs, eventos, open source e como participar.","Discord, GitHub, eventos",10,Mostrar exemplos reais.
+Portfólio e Soft Skills,9.6,"Postura profissional: humildade, curiosidade e consistência",Mostrar que não há pergunta boba e que ajudar/receber ajuda é essencial.,"Slides, depoimentos",8,Fechar com mensagem motivadora.
