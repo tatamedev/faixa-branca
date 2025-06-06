@@ -1,0 +1,22 @@
+Estudos em paralelo
+- Inglês
+- Design Patterns
+- SOLID
+- WebSockets
+- Testes
+- Estrutura de dados
+    - Vetor
+    - Listas
+    - Fila
+    - Pilha
+- Programação orientada a objetos
+- UML
+    - Fluxograma
+    - Diagrama de classes
+    - Diagrama de sequência
+    - Caso de uso
+    - MER e DER
+- Segurança
+    - Criptografia
+    - HTTPS
+    - HASH

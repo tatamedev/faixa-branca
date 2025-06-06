@@ -1,0 +1,14 @@
+ideias
+- Ferramentas para praticar 
+    - LetCode
+    - HackerHank
+    - Code academy
+- Sites para se atualizar sobre tecnologias
+    - FreeCodeCamp
+    - HackerHank
+- Canais de youtube para aprender sobre programação
+    - Curso em vídeo
+- Conteúdos para estudar
+    - MindMap com temas para estudar
+- Prototipando telas
+- Entendendo os problemas
